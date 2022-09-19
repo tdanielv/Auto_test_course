@@ -1,2 +1,2 @@
 # Auto_test_course
-There are just my homework
+There are just my homework in git
